@@ -1,1 +1,1 @@
-git is open source
+git is open source program
